@@ -8,7 +8,7 @@ local cs = require("cs")
 --local Controller = sync.registerType('Controller')
 
 client, server = nil, nil
-server_address = '127.0.0.1'
+server_address = '207.254.45.246'
 
 function start_server()
   if not server then
